@@ -1,6 +1,6 @@
 #!/bin/bash
 
-POOL=stratum+tcp://kawpow.eu-west.nicehash.com:3390
+POOL=stratum+tcp://daggerhashimoto.usa-west.nicehash.com:3353
 
 WALLET=3K58rk4hAySW78RPaxkzFVhddAL7iMxkbZ
 
