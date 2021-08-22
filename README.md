@@ -1,0 +1,2 @@
+# cryptocd
+senggol bacok
